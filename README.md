@@ -1,5 +1,5 @@
 # QTL-Research-Journal
-Quantitative Research: Public research arm of QTL. Decoding institutional footprints and mapping market architecture. We analyze fundamental market structures and multi-venue flows to form proprietary signals.  Focus:  Frameworks: CME, Binance, Coinbase confluence. High impact news. Market structure analysis (OHLC, wicks, BOS, IND). HTF bias and LTF execution. Research: Post-mortem case studies.
+Quantitative Research: Public research arm of QTL. Decoding institutional footprints and mapping market architecture. We analyze fundamental market structures and multi-venue flows to form proprietary signals.  Focus:  Frameworks: CME, Binance, Coinbase confluence. High impact news. Market structure analysis (OHLC, wicks, BOS, IND). HTF and LTF validation protocols. Research: Post-mortem case studies.
 
 ---
 
