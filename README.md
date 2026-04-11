@@ -1,5 +1,5 @@
 # qtl-research-journal
-Quantitative Research: Mapping Institutional Architecture to Global Liquidity.  Public research arm of QTL. We synthesize primary market structures and multi-venue flows to isolate proprietary signals.  Focus:  Frameworks: CME, Binance, Coinbase confluence. .  Analysis: Post-mortem case studies.
+Quantitative Research: Public research arm of QTL. Decoding Institutional Footprints and mapping market architecture. We analyze fundamental market structures and multi-venue flows to form proprietary signals.  Focus:  Frameworks: CME, Binance, Coinbase confluence. High impact news. Market structure analysis (OHLC, wicks, BOS, IND). Research: Post-mortem case studies.
 
 ---
 
