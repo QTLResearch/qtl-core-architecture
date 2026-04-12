@@ -5,11 +5,11 @@ QTL Core Architecture is the technical repository for the development of data vi
 ### Technical Scope
 * **Structural Visualization:** General-purpose rendering logic for OHLC and coordinate-based data mapping.
 
-* **Confluence Logic: Multi-source data verification protocols (Exchange API integration logic).
+* Confluence Logic: Multi-source data verification protocols (Exchange API integration logic).
 
-* **Execution Sequences: Algorithmic sequences for validating data integrity across high-frequency and low-frequency environments.
+* Execution Sequences: Algorithmic sequences for validating data integrity across high-frequency and low-frequency environments.
 
-* **Performance Logs: Detailed implementation logs and architectural documentation for framework verification.
+* Performance Logs: Detailed implementation logs and architectural documentation for framework verification.
 
 ### Usage
 This repository serves as a technical resource for developers and researchers building custom analytical dashboards and systematic data-visualization tools.
