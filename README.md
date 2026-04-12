@@ -1,4 +1,4 @@
-QTL Core Architecture
+###QTL Core Architecture
 Technical Research & Visualization Frameworks
 QTL Core Architecture is the technical repository for the development of high-fidelity data visualization tools and modular UI components. We focus on mapping complex data structures and multi-venue information flows into systematic frameworks.
 
