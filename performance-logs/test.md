@@ -1,1 +1,29 @@
+# 2026-04-09 BTC/USDT: 4hr Liquidity Sweep Analysis 
+> **Framework:** Weekly sweep → 4h sweep → 15 min inducement/fvg
 
+---
+
+### 🧠 Strategy Logic
+* **Higher Timeframe:** Binance 1W candle wick sweeps a 1W high. Coinbase must sweep the 1W high to confirm 
+* **Correlated Check:** `<BTC1!>` and `<BTC2!>` must also wick to confirm.
+* **The Setup:** 4h candle wick (breaching weekly box) sweeps a 4h high (also breaching weekly box). coinbase and `<BTC1!>` must sweep the 4h high to confirm
+* **The Box:** A zone is drawn around the 4hr wick that sweeps. **QTLResearch** utilizes ICT concepts for PD Array logic.
+
+### 📉 Execution Protocol (1W ➔ 4h ➔ 15m)
+1. **Identify:** First 15 min BOS inside the 4h box.
+2. **Inducement (IND):** The first 15 min high made after the BOS.
+3. **Equilibrium:** Draw equilibrium from the 4h wick sweep high to the recent low.
+4. **Constraint:** Price must breach the equilibrium level.
+5. **Entry Trigger:** 15 min must produce a FVG that breaches the IND level.
+6. **Final Filter:** The 15 min FVG breach of IND must also breach below the **QTL level**.
+
+---
+
+### 🖼️ Technical Evidence
+![BTC Analysis](../Assets/2024-04-09-btc-4h-sweep.md)
+
+### ⚠️ Post-Trade Review
+**Execution Logic:** There was **no execution** on this trade because the 15 min FVG did not breach below the QTL level. This discipline preserves capital by adhering to the stringent entry requirements.
+
+---
+*Research by QtL | Licensed under AGPLv3*
