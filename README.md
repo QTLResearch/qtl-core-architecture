@@ -1,9 +1,9 @@
  QTL Core Architecture
 ### Technical Research & Visualization Frameworks
-QTL Core Architecture is the technical repository for the development of high-fidelity data visualization tools and modular UI components. We focus on mapping complex data structures and multi-venue information flows into systematic frameworks.
+QTL Core Architecture is the technical repository for the development of data visualization tools and integrity tooling. We focus on mapping complex data structures and multi-venue information flows into systematic frameworks.
 
 ### 🌐 Technical Scope
-📊 Visualization Engines: Implementation of OHLC, wick-depth, and structural break (BOS) logic for custom charting interfaces.
+* **Structural Visualization:** General-purpose rendering logic for OHLC and coordinate-based data mapping.
 
 🔗 Confluence Logic: Multi-source data verification protocols (Exchange API integration logic).
 
