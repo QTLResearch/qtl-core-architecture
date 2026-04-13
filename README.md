@@ -7,12 +7,12 @@ QTL Core Architecture is the technical repository for developing tools to visual
 
 * Confluence Logic: Multi-source data verification protocols (Exchange API integration logic).
 
-* Execution Sequences: Algorithmic sequences for validating data integrity between large and small scale environments.
+* Execution Sequences: Rule based sequences for maintaining data integrity between large and small scale environments.
 
-* Performance Logs: Detailed implementation logs and architectural documentation for framework verification.
+* Performance Logs: Detailed architectural documentation verification.
 
 ### Usage
-This repository serves as a technical resource for developers and researchers building custom analytical dashboards and systematic data-visualization tools.
+This repository serves as a technical resource for developers and researchers building systematic data-visualization tools for charts.
 
 ---
 
