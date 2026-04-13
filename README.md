@@ -17,6 +17,6 @@ This repository serves as a technical resource for developers and researchers bu
 ---
 
 ### Recent Research
-* [**Apr 09, 2026** | BTC/USDT: 4hr Liquidity Sweep Analysis](./case-studies/2026-04-09-btc-4h-sweep.md)
+* [**Apr 09, 2026** | BTC/USDT: 4h breach](./case-studies/2026-04-09-btc-4h-sweep.md)
 * *More research coming soon...*
 
