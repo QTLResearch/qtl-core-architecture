@@ -1,9 +1,9 @@
  QTL Core Architecture
 ### Technical Research & Visualization Frameworks
-QTL Core Architecture is the technical repository for the development of data visualization tools for mapping complex data structures.
+QTL Core Architecture is the technical repository for developing tools to visualize time-series data sets.
 
 ### Technical Scope
-* **Visualization:** OHLC and time based data mapping.
+* **Visualization:** time and price structure
 
 * Confluence Logic: Multi-source data verification protocols (Exchange API integration logic).
 
